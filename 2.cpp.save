@@ -1,0 +1,22 @@
+
+#include "2_reader        .h"
+#include "2_recursive_down.h"
+
+int main()
+{
+    char AST [1000] = {};
+
+    FILE* tree = fopen ("tree.txt", "r");
+    fread (AST, 1, filelength (fileno (tree)), tree);
+
+    node*   ruta    = new node()      ;
+    string* tablef   = new string [10];
+    string* tablev   = new string [10];
+
+    ruta = Preparation (AST, tablev, tablef);
+    Print (ruta);
+    
+    
+
+    return 0;
+}

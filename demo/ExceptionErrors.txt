@@ -1,0 +1,19 @@
+Exception with error code 367,
+error message: "Ast2AsmTranslator_t::Ast2AsmTranslator_t(std::string, std::string): Error occurred"
+occurred in file: "C:\ProjectsDump\Lolcode\Ast2asm\Translator.cpp" on line 59
+caused by:
+Exception with error code 406,
+error message: "void TreeLoader_t::LoadTree(): Error occurred"
+occurred in file: "C:\ProjectsDump\Lolcode\Ast2asm\TreeLoader.cpp" on line 60
+caused by:
+Exception with error code 408,
+error message: "void TreeLoader_t::LoadNode(Node_t<NodeContent_t>*): Error occurred: Error occurred"
+occurred in file: "C:\ProjectsDump\Lolcode\Ast2asm\TreeLoader.cpp" on line 95
+caused by:
+Exception with error code 408,
+error message: "void TreeLoader_t::LoadNode(Node_t<NodeContent_t>*): Error occurred: Error occurred"
+occurred in file: "C:\ProjectsDump\Lolcode\Ast2asm\TreeLoader.cpp" on line 95
+caused by:
+Exception with error code 410,
+error message: "Excpected ' ' between child nodes"
+occurred in file: "C:\ProjectsDump\Lolcode\Ast2asm\TreeLoader.cpp" on line 83

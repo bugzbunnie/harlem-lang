@@ -1,0 +1,16 @@
+nigga value = 1;
+nigga oldvalue = 0;
+nigga n = 0;
+nigga counter = 0;
+
+inda_hood
+{
+	inda n;
+	while (counter whiter n)
+	{
+		value = value + oldvalue;
+		oldvalue = value - oldvalue;
+		outta oldvalue;
+		counter = 1 + counter;
+	}
+} 

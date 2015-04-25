@@ -1,0 +1,2 @@
+RafVm asm.txt
+pause

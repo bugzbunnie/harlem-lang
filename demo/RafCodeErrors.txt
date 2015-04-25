@@ -1,0 +1,8 @@
+Build: 27.3.15 23:10:46
+Parsing file "code.txt"
+Level 2
+--------------------------------------------------
+Error: Unexpected token "HAI" on line 10
+                             v
+VISIBLE SIN OF PWR OF 2.6 OF var AN SQRT OF PRODUKT OF 17 AN var
+--------------------------------------------------

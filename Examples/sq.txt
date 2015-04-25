@@ -1,0 +1,13 @@
+clip square
+{
+	a = a * a;
+}
+
+nigga a = 1;
+
+inda_hood 
+{
+	inda a;
+	square;
+	outta a;
+}

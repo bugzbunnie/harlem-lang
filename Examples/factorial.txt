@@ -1,0 +1,14 @@
+nigga a = 1;
+nigga b = 0;
+nigga c = 1;
+
+inda_hood 
+{
+	inda b;
+	while (a whiter b)
+        {
+		a = a + 1;
+		c = c * a;
+	}
+	outta c;
+}
